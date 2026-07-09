@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Chandu 👋</h1>
-<h3 align="center">AI/ML Enthusiast | Data Science Undergrad | Building with Python, SQL & GenAI</h3>
+<h3 align="center">AI/ML Enthusiast | Data Science Graduate | Building with Python, SQL & GenAI</h3>
  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chandu-m-58756a350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chandumgowda120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Chandu7483/chandu-s-portfolio-launch"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 ---
  
 ### 🚀 About Me
  
-I'm a final-year **Computer Science (Data Science)** student passionate about turning data and AI into practical, real-world solutions. I build end-to-end projects across **Generative AI, Machine Learning, and full-stack web development** — from RAG-based document assistants to multi-agent automation systems.
+I'm a **Computer Science (Data Science) graduate** passionate about turning data and AI into practical, real-world solutions. I build end-to-end projects across **Generative AI, Machine Learning, and full-stack web development** — from RAG-based document assistants to multi-agent automation systems.
  
 Currently:
 - 🔭 Interning at **UpToSkills (AICTE)** — building backend systems with Python, SQL & Django
@@ -23,12 +23,11 @@ Currently:
  
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[AI Virtual Interview Assistant](#)** | Voice-based interview simulator with real-time speech-to-text and performance feedback | Python, NLP, Speech Recognition |
-| **[DocChat – AI Document Assistant](#)** | RAG app for natural-language querying over documents using vector search | LangChain, ChromaDB, Gemini API |
-| **[Game Development Crew AI](#)** | Multi-agent system automating game design workflows | CrewAI, Python, LLMs |
-| **[AI Shopping Assistant](#)** | LLM-powered assistant for product discovery, comparison & recommendations | n8n, GenAI, APIs |
+| **[AI Virtual Interview Assistant]** | Voice-based interview simulator with real-time speech-to-text and performance feedback | Python, NLP, Speech Recognition |
+| **[DocChat – AI Document Assistant]** | RAG app for natural-language querying over documents using vector search | LangChain, ChromaDB, Gemini API |
+| **[Game Development Crew AI]** | Multi-agent system automating game design workflows | CrewAI, Python, LLMs |
+| **[AI Shopping Assistant]** | LLM-powered assistant for product discovery, comparison & recommendations | n8n, GenAI, APIs |
  
-*(Replace `#` with the actual repo links)*
  
 ---
  
@@ -36,7 +35,6 @@ Currently:
  
 **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
 **AI / ML / GenAI**
@@ -89,9 +87,9 @@ Currently:
 ---
  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/chandu-m-58756a350/">LinkedIn</a> •
   <a href="mailto:chandumgowda120@gmail.com">Email</a> •
-  <a href="https://YOUR-PORTFOLIO-LINK">Portfolio</a>
+  <a href="https://github.com/Chandu7483/chandu-s-portfolio-launch">Portfolio</a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chandu7483&style=for-the-badge&color=blueviolet" alt="profile views"/>
